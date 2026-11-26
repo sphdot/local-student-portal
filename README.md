@@ -1,6 +1,7 @@
 # local-student-portal-project
 one of my first attempts at coding,
 a very simple console-based crud student portal program fully written in c
+not vibe coded at all
 
 ## features
 
